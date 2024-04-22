@@ -3,6 +3,7 @@
 Deploying a hello-world node.js application
 1) deploy on ArgoCD using UI
    
+   - create a public doccker image on ECR and a public github repo
    - point URL to ALB address with a domain name in Route 53
   
 2) deploy on ArgoCD with helm chart
